@@ -1,0 +1,12 @@
+# Documentos con datos personales: nunca subir
+*.pdf
+indice_paginas.txt
+reporte_hc_pendientes.txt
+requieren*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
